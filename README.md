@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Sungshin Women's University 20🔮
+Main major: Computer Engineering 
+Double major: Information Systems Engineering
+
+아직 해보고 싶은 것도 많고, 배울 것도 많은 초보 개발자입니다.
+
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=damaon)](https://solved.ac/damaon)
 
