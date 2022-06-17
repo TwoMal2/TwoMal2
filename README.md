@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-**Sungshin Women's University 20**🔮  
+**Sungshin University**🔮  
 *Main major: Computer Engineering  
 Double major: Information Systems Engineering*
 
