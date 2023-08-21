@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ---
 **Integrated M.S. Student**</br>
 Networking and Systems Lab.</br>
-Department of Computer Engineering</br>
+Department of Computer Science</br>
 Sungshin Women's University </br>
 Seoul, Repiblic of Korea</br> 
 
